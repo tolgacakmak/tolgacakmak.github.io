@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hakkımda
-permalink: /about/
+title: Menu2
+permalink: /menu2/
 ---
 
  **Kişisel Web sayfam:** [https://tolgacakmak.net](https://tolgacakmak.net)
